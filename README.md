@@ -1,2 +1,1 @@
-# Figurebed
-howarzheng.com网站图床
+博客文件。
